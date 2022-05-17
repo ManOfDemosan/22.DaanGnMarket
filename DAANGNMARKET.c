@@ -73,3 +73,9 @@ int	main(int argc, char **argv)
 	return 0;
 
 }
+
+/*by Ruby
+def convert(input)
+	puts (input.strip.upcase.reverse)
+end
+*/
